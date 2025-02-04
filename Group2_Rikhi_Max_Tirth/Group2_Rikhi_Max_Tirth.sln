@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Group2_Rikhi_Max_Tirth", "Group2_Rikhi_Max_Tirth\Group2_Rikhi_Max_Tirth.csproj", "{43A36C92-1A95-4F84-A7E3-53898496F8DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Group2_Rikhi_Max_Tirth.nUnitTests", "Group2_Rikhi_Max_Tirth.nUnitTests\Group2_Rikhi_Max_Tirth.nUnitTests.csproj", "{BDF53EC5-E0CB-4093-8DD8-1EDF354BE50B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43A36C92-1A95-4F84-A7E3-53898496F8DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A36C92-1A95-4F84-A7E3-53898496F8DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A36C92-1A95-4F84-A7E3-53898496F8DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A36C92-1A95-4F84-A7E3-53898496F8DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDF53EC5-E0CB-4093-8DD8-1EDF354BE50B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDF53EC5-E0CB-4093-8DD8-1EDF354BE50B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDF53EC5-E0CB-4093-8DD8-1EDF354BE50B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDF53EC5-E0CB-4093-8DD8-1EDF354BE50B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
